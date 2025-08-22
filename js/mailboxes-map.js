@@ -1,7 +1,7 @@
 function initAutocomplete() {
     var taiwan = {
-        lat: 23.5,
-        lng: 121
+        lat: 25.033493,
+        lng: 121.564101
     };
     var marker
     var map = new google.maps.Map(document.getElementById('map'), {

@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/xhno0FY.png)
+![](https://i.imgur.com/k5fOuY4.png)
 > 一般信筒（箱）郵件投入口寬約 21.4 公分，高約 6 公分，過大郵件請至郵局窗口交寄
